@@ -71,7 +71,7 @@ Example Output:
 ### Caboose Action
 ![](https://github.com/zgiovane/Zombie-Conga/blob/main/ExampleOutputs/ZombieCongaCaboose.png)
 
-## JumpIn! Action
+### JumpIn! Action
 ![](https://github.com/zgiovane/Zombie-Conga/blob/main/ExampleOutputs/ZombieCongaJumpIn.png)
 
 ## Usage
