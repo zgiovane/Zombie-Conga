@@ -67,9 +67,13 @@ Each round displays:
 - The outcome of the action, including the updated conga line.
 
 Example Output:
+
+### Caboose Action
 ![](https://github.com/zgiovane/Zombie-Conga/blob/main/ExampleOutputs/ZombieCongaCaboose.png)
 
+## JumpIn! Action
 ![](https://github.com/zgiovane/Zombie-Conga/blob/main/ExampleOutputs/ZombieCongaJumpIn.png)
+
 ## Usage
 
 1. **Compile** the project with the provided `Makefile`.
