@@ -75,7 +75,6 @@ Example Output:
 ![](https://github.com/zgiovane/Zombie-Conga/blob/main/ExampleOutputs/ZombieCongaJumpIn.png)
 
 ## Usage
-
 1. **Compile** the project with the provided `Makefile`.
 2. **Run** the executable (`exe`).
 3. **Input** the number of rounds when prompted.
